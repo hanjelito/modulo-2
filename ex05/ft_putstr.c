@@ -19,10 +19,10 @@ c++;
 
 }
 
-/*
+
 }
 
-
+/*
 int main(){
      char cad;
      ft_putstr(&cad);
