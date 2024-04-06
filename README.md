@@ -15,5 +15,5 @@ ex01 Correcto.
 ex02 Correcto.
 ex03 Correcto.
 ex04 Correcto.
-ex05 Correcto. Reemplaza str al parametro
-Nota:No es necesario incluir la libreria para el funcionamiento de la funcion, de ahi Correcto.
+ex05 
+Nota:No es necesario incluir la libreria para el funcionamiento de la funcion pero pasa.  Correcto.
