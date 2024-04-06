@@ -1,5 +1,5 @@
 #include <unistd.h>
- #include <stdio.h>
+/* #include <stdio.h>*/
 
 void ft_ultimate_ft(int *********nbr){
 
@@ -10,7 +10,7 @@ void ft_ultimate_ft(int *********nbr){
 
 }
 
-int main(void)
+/* int main(void)
 {
 	int a=0;
 	int *p1=&a;
@@ -30,7 +30,7 @@ int main(void)
      return 0;
 
 }
-
+*/
 
 
 

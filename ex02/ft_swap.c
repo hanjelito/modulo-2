@@ -1,5 +1,5 @@
 #include <unistd.h>
- #include <stdio.h>
+/* #include <stdio.h>*/
 
 void ft_swap(int *a, int *b)
 {
@@ -10,7 +10,7 @@ int *aux;
  *b=*aux;
 }
  
- int main(void)
+ /*int main(void)
 {
   int n1=7;
   int n2=3;
@@ -23,3 +23,4 @@ int *aux;
   printf("\n%d",n2);
 
 }
+*/

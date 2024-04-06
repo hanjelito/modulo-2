@@ -1,5 +1,5 @@
 #include <unistd.h>
- #include <stdio.h>
+/* #include <stdio.h>*/
 
 void ft_ft(int *nbr)
 {
@@ -8,7 +8,7 @@ void ft_ft(int *nbr)
 }
 
 
-int main(void)
+/* int main(void)
 {
   int n=1;
   int  *p1;
@@ -16,4 +16,4 @@ int main(void)
   ft_ft(p1);
   printf("%d",n);
 
-}
+}*/
